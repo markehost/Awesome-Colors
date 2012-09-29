@@ -1,6 +1,48 @@
 /* Awesome Colors */
 
 /*\\\\\\\\\\\\ FASHION \\\\\\\\\\\\*/
+/* fall 2011 */
+.coral-rose {
+	color: #f47e4d;
+}
+.peapod {
+	color: #3daf8d;
+}
+.regatta {
+	color: #0075bc;
+}
+.russet {
+	color: #a06c4f;
+}
+.silver-cloud {
+	color: #beb7b3;
+}
+.silver-peony {
+	color: #f2e2de;
+}
+
+/* fall 2011 */
+.cadet {
+	color: #646D8D;
+}
+.cedar {
+	color: #939063;
+}
+.coffee-liqueur {
+	color: #6A5542;
+}
+.emberglow {
+	color: #E4665C;
+}
+.nougat {
+	color: #B89F86;
+}
+.orchid-hush {
+	color: #CEC4D7;
+}
+.quarry {
+	color: #9AA5AA;
+}
 
 /* spring 2012 */
 .bellflower {
@@ -15,6 +57,9 @@
 .sodalite-blue {
 	color: #0C336D;
 }
+.starfish {
+	color: #B19976;
+}
 /* fall 2012 */
 .oxblood {
 	color: #4A0000;
@@ -22,12 +67,29 @@
 
 
 /*\\\\\\\\\\\\ PANTONE \\\\\\\\\\\\*/
+/* pantone 2000 */
+.cerulean {
+	color: #9BB7D4;
+}
 
+...
+
+/* pantone 2008 */
+.blue-iris {
+	color: #5A5B9F;
+}
 /* pantone 2009 */
 .mimosa {
 	color: #F0C05A;
 }
-
+/* pantone 2010 */
+.turquoise {
+	color: #45B5AA;
+}
+/* pantone 2011 */
+.honeysuckle {
+	color: #D65076;
+}
 /* pantone 2012 */
 .tangerine-tango {
 	color: #E1523D;
